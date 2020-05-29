@@ -12,7 +12,7 @@
         <spring.jdbc.version>4.0.5.RELEASE</spring.jdbc.version>
         <hsql.version>2.3.4</hsql.version>
         <jackson.version>2.11.0</jackson.version>
-        <spring.batch.version>3.0.7.RELEASE</spring.batch.version>
+        <spring.batch.version>4.0.0.RELEASE</spring.batch.version>
     </properties>
  
     <dependencies>
